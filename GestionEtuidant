@@ -1,6 +1,6 @@
 server.port= 8080
-spring.datasource.url = jdbc:mysql://urldatabase/nom-table
-spring.datasource.usermane = 
+spring.datasource.url = jdbc:mysql://urldatabase/Etudiant
+spring.datasource.usermane =root 
 spring.datasource.password = 
 spring.datasource.driverClassName=com.cj.jdbc.Driver
 spring.jpa.hibernate.ddl-auto = create
