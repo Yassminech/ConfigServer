@@ -1,0 +1,7 @@
+server.port= 8081
+spring.datasource.url = jdbc:mysql://urldatabase/Classe
+spring.datasource.usermane = root
+spring.datasource.password = 
+spring.datasource.driverClassName=com.cj.jdbc.Driver
+spring.jpa.hibernate.ddl-auto = create
+spring.jpa.proprietes.hibernate.dialect.MySQL57Dialect
